@@ -8,7 +8,7 @@
         "announcement": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Get 25% off your first order with code: FIRST25",
             "link": ""
           }
         }
